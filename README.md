@@ -26,9 +26,11 @@ Resources
 * Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. **Novel dataset for Fine-Grained Image Categorization**. First Workshop on Fine-Grained Visual Categorization (FGVC),* IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.*
 
 * [VGG16 model](https://neurohive.io/en/popular-networks/vgg16/)
-* [Imagenet](https://www.image-net.org/)
+* [ImageNet](https://www.image-net.org/)
+* [Keras ImageNet trained models](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 * [Using Public Datasets with TensorFlow Datasets](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/ch04.html)
 * [Keras Pretrained image classification Models](https://keras.io/api/applications/#usage-examples-for-image-classification-models)
 * [Checkpointing Deep Learning Models](https://towardsdatascience.com/checkpointing-deep-learning-models-in-keras-a652570b8de6)
 * [Transfer Learning and fine-tuning with Keras](https://www.tensorflow.org/tutorials/images/transfer_learning)
 * [Image Classification from Scratch](https://keras.io/examples/vision/image_classification_from_scratch/)
+* [Xception Network](https://paperswithcode.com/method/xception)
